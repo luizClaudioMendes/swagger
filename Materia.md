@@ -1,8 +1,7 @@
 # Swagger: documentando suas APIs
 iniciado em 07/04/2022
 
-terminado em ANDAMENTO
-
+terminado em 11/04/2022
 [certificate]() 
 
 - [Swagger: documentando suas APIs](#swagger-documentando-suas-apis)
